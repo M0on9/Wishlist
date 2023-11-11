@@ -59,5 +59,5 @@ ___
 **Price:** 6.97
 
 **Where to buy:**
-[Amazon](https://www.amazon.com/dp/B0087X728K) (7.95, 9% off usually 8.75) ★★★★★
-[MemoryC](https://www.memoryc.com/11331-arctic-silver-5-thermal-compound-3-5g.html?sscid=b1k7_czk2s) (11.95) ★★★★★
+ - [Amazon](https://www.amazon.com/dp/B0087X728K) (7.95, 9% off usually 8.75) ★★★★★
+ - [MemoryC](https://www.memoryc.com/11331-arctic-silver-5-thermal-compound-3-5g.html?sscid=b1k7_czk2s) (11.95) ★★★★★
