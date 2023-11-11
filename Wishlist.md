@@ -1,3 +1,6 @@
+## Table of contents:
+[ID-COOLING SE-214-XT ARGB](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#id-cooling-se-214-xt-argb)
+
 ### ID-COOLING SE-214-XT ARGB
 
 Category: Computer part
