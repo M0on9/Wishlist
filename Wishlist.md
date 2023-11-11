@@ -30,7 +30,7 @@ ___
 **Category:** Computer part
  - Subcategory: CPU Cooler
 
-**Extras:** Requires thermal paste to function
+**Extras:** Requires [thermal paste](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#artic-silver-5-thermal-paste) to function
 
 **Specifications:**
  - 68.2 CFM
@@ -43,3 +43,20 @@ ___
  - [Amazon](https://a.co/d/1q9jktn) (17.99)
 
 ___
+
+### Artic Silver 5 Thermal paste
+
+**Category:** Computer Part
+ - Subcategory: Thermal paste
+
+**Specifications:**
+ - 3.5g
+ - 3-12 degrees lower CPU tempatures (celsius)
+ - 88% thermal conductivity
+ - -50 - 130 degrees operating tempature
+
+**Price:** 6.97
+
+**Where to buy:**
+[Amazon](https://www.amazon.com/dp/B0087X728K) (7.95, 9% off usually 8.75)
+[MemoryC](https://www.memoryc.com/11331-arctic-silver-5-thermal-compound-3-5g.html?sscid=b1k7_czk2s) (11.95)
