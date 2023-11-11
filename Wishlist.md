@@ -1,3 +1,4 @@
+★☆½
 ## Table of contents:
 (Sorted by priority)
 
@@ -41,7 +42,7 @@ ___
 **Price:** 17.99 (22% off, usually 22.99)
 
 **Where to buy:**
- - [Amazon](https://a.co/d/1q9jktn) (17.99)
+ - [Amazon](https://a.co/d/1q9jktn) (17.99) ★★★★½
 
 ___
 
