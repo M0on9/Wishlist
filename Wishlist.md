@@ -1,6 +1,7 @@
 ## Table of contents:
 (Sorted by priority)
 #### Tech:
+##### Tech --> Computer parts:
 1. [Thermalright TL-C12C-S X3 Case fan](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#thermalright-tl-c12c-s-x3)
 2. [ID-COOLING SE-214-XT ARGB Cpu Cooler](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#id-cooling-se-214-xt-argb)
 3. [Artic Silver 5 Thermal Paste](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#artic-silver-5-thermal-paste)
