@@ -16,14 +16,17 @@ ___
 **Specifications**
  - Usb 3 and up
  - 32Gb and up
- - Pack of 3-5
+ - Pack of 3+
 
 **Price:** Varies
 
 **Where to buy:**
 
 Doesnt matter that much, but heres a example link
- - https://www.amazon.com/Center-SuperSpeed-5-Pack-Memory-Keychain/dp/B09LLWTMXQ/
+ - [Micro Center SuperSpeed USB stick 32Gb x10](https://www.amazon.com/Center-SuperSpeed-5-Pack-Memory-Keychain/dp/B09LLWTMXQ/) ($30.49, other options available) ★★★★½
+
+___
+
 ### Thermalright TL-C12C-S X3
 
 **Category:** Computer part
