@@ -1,6 +1,7 @@
 ## Table of contents:
 (Sorted by priority)
 #### Tech:
+1. [A bunch of USB sticks](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#a-bunch-of-usb-sticks)
 ##### Tech --> Computer parts:
 1. [Thermalright TL-C12C-S X3 Case fan](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#thermalright-tl-c12c-s-x3)
 2. [ID-COOLING SE-214-XT ARGB Cpu Cooler](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#id-cooling-se-214-xt-argb)
@@ -8,6 +9,21 @@
 
 ___
 
+### A bunch of USB sticks
+
+**Category:** Tech
+
+**Specifications**
+ - Usb 3 and up
+ - 32Gb and up
+ - Pack of 3-5
+
+**Price:** Varies
+
+**Where to buy:**
+
+Doesnt matter that much, but heres a example link
+ - https://www.amazon.com/Center-SuperSpeed-5-Pack-Memory-Keychain/dp/B09LLWTMXQ/
 ### Thermalright TL-C12C-S X3
 
 **Category:** Computer part
