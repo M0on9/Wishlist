@@ -6,6 +6,7 @@
 1. [Thermalright TL-C12C-S X3 Case fan](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#thermalright-tl-c12c-s-x3)
 2. [ID-COOLING SE-214-XT ARGB Cpu Cooler](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#id-cooling-se-214-xt-argb)
 3. [Artic Silver 5 Thermal Paste](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#artic-silver-5-thermal-paste)
+4. [DIYPC Q3-W M-ATX Computer case](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#diypc-q3-w-m-atx-computer-case)
 
 ___
 
@@ -13,7 +14,7 @@ ___
 
 **Category:** Tech
 
-**Specifications**
+**Specifications:**
  - Usb 3 and up
  - 32Gb and up
  - Pack of 3+
@@ -81,3 +82,25 @@ ___
 **Where to buy:**
  - [Amazon](https://www.amazon.com/dp/B0087X728K) (7.95, 9% off usually 8.75) ★★★★★
  - [MemoryC](https://www.memoryc.com/11331-arctic-silver-5-thermal-compound-3-5g.html?sscid=b1k7_czk2s) (11.95) ★★★★★
+
+___
+
+### DIYPC Q3-W M-ATX Computer case
+
+**Category:** Computer Part
+ - Subcategory: Computer case
+
+**Specifications:**
+ - 360mm max video card length
+ - 40.5L
+ - Micro atx motherboard compatibility
+ - Tempered glass side panels
+
+**Price:** 59.98
+
+**Where to buy:**
+ - [Newegg](https://www.newegg.com/p/N82E16811353225?Item=N82E16811353225) (59.98) ★★★★½
+ - [Amazon](https://www.amazon.com/Diypc-ARGB-Q3-W-Case-Argb-q3-w/dp/B0CD66G5Z5) (59.98) ★★★★★
+ - [Walmart (online only, not in stores)](https://www.walmart.com/ip/DIYPC-ARGB-Q3-W-White-USB3-0-Tempered-Glass-Micro-ATX-Gaming-Computer-Case-w-Dual-Tempered-Glass-Panel-and-3-x-ARGB-LED-Fans-Pre-Installed/2874883917?from=/search) (59.98) N/A
+
+___
