@@ -28,6 +28,24 @@ Doesnt matter that much, but heres a example link
 
 ___
 
+### HyperX Pulsefire Haste Gaming Mouse (White)
+
+**Category:** Tech
+
+**Specifications:**
+ - 16,000 DPI
+ - 60g
+
+**Price:** 49.99
+
+**Where to buy:**
+ - [Amazon](https://www.amazon.com/dp/B09QXG3132) (29.99, 40% off, usually 49.99) ★★★★½
+ - [BestBuy](https://www.bestbuy.com/site/hyperx-pulsefire-haste-lightweight-wireless-optical-gaming-mouse-white/6500984.p?skuId=6500984) (49.99) ★★★★★
+ - [HP (hyperx)](https://www.hp.com/us-en/shop/pdp/hyperx-pulsefire-haste-gaming-mouse-(white-pink)) (29.99, usually 49.99) ★★★★½
+ - [Target](https://www.target.com/p/hyperx-pulsefire-haste-wired-gaming-mouse-for-pc-pink-white/-/A-86873149?clkid=695c8131N8d3f11eebae5b1563be5ff38) (29.99, usually 37.99) ★★★★½
+
+___
+
 ### Thermalright TL-C12C-S X3
 
 **Category:** Computer part
