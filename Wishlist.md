@@ -2,6 +2,7 @@
 (Sorted by priority)
 #### Tech:
 1. [A bunch of USB sticks](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#a-bunch-of-usb-sticks)
+2. [HyperX Pulsefire Haste](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#hyperx-pulsefire-haste-gaming-mouse-white)
 ##### Tech --> Computer parts:
 1. [Thermalright TL-C12C-S X3 Case fan](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#thermalright-tl-c12c-s-x3)
 2. [ID-COOLING SE-214-XT ARGB Cpu Cooler](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#id-cooling-se-214-xt-argb)
@@ -35,6 +36,8 @@ ___
 **Specifications:**
  - 16,000 DPI
  - 60g
+
+**Extra Notes:** Was gotten last year with a broken cable and in a different color.
 
 **Price:** 49.99
 
