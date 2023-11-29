@@ -7,7 +7,13 @@
 1. [Thermalright TL-C12C-S X3 Case fan](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#thermalright-tl-c12c-s-x3)
 2. [ID-COOLING SE-214-XT ARGB Cpu Cooler](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#id-cooling-se-214-xt-argb)
 3. [Artic Silver 5 Thermal Paste](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#artic-silver-5-thermal-paste)
-4. [DIYPC Q3-W M-ATX Computer case](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#diypc-q3-w-m-atx-computer-case)
+4. [Dell Optiplex 9020 Micro parts](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#dell-optiplex-9020-micro-parts-all-seperate)
+> Parts:\
+> [I7-4790S CPU](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#i7-4790s-cpu)\
+> [Barebones optiplex system](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#barebones-system)\
+> [Power adapter](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#barebones-system)
+
+5. [DIYPC Q3-W M-ATX Computer case](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#diypc-q3-w-m-atx-computer-case)
 
 ___
 
@@ -106,26 +112,6 @@ ___
 
 ___
 
-### DIYPC Q3-W M-ATX Computer case
-
-**Category:** Computer Part
- - Subcategory: Computer case
-
-**Specifications:**
- - 360mm max video card length
- - 40.5L
- - Micro atx motherboard compatibility
- - Tempered glass side panels
-
-**Price:** 59.98
-
-**Where to buy:**
- - [Newegg](https://www.newegg.com/p/N82E16811353225?Item=N82E16811353225) (59.98) ★★★★½
- - [Amazon](https://www.amazon.com/Diypc-ARGB-Q3-W-Case-Argb-q3-w/dp/B0CD66G5Z5) (59.98) ★★★★★
- - [Walmart (online only, not in stores)](https://www.walmart.com/ip/DIYPC-ARGB-Q3-W-White-USB3-0-Tempered-Glass-Micro-ATX-Gaming-Computer-Case-w-Dual-Tempered-Glass-Panel-and-3-x-ARGB-LED-Fans-Pre-Installed/2874883917?from=/search) (59.98) N/A
-
-___
-
 ### Dell Optiplex 9020 Micro parts (all seperate)
 
 **Notes:** This item contains 3 items that form 1 product.
@@ -173,3 +159,25 @@ ___
 **Price (combined):** $60 - $145
 
 **Where to buy:** Ebay, Amazon (see parts for links)
+
+___
+
+### DIYPC Q3-W M-ATX Computer case
+
+**Category:** Computer Part
+ - Subcategory: Computer case
+
+**Specifications:**
+ - 360mm max video card length
+ - 40.5L
+ - Micro atx motherboard compatibility
+ - Tempered glass side panels
+
+**Price:** 59.98
+
+**Where to buy:**
+ - [Newegg](https://www.newegg.com/p/N82E16811353225?Item=N82E16811353225) (59.98) ★★★★½
+ - [Amazon](https://www.amazon.com/Diypc-ARGB-Q3-W-Case-Argb-q3-w/dp/B0CD66G5Z5) (59.98) ★★★★★
+ - [Walmart (online only, not in stores)](https://www.walmart.com/ip/DIYPC-ARGB-Q3-W-White-USB3-0-Tempered-Glass-Micro-ATX-Gaming-Computer-Case-w-Dual-Tempered-Glass-Panel-and-3-x-ARGB-LED-Fans-Pre-Installed/2874883917?from=/search) (59.98) N/A
+
+___
