@@ -125,3 +125,51 @@ ___
  - [Walmart (online only, not in stores)](https://www.walmart.com/ip/DIYPC-ARGB-Q3-W-White-USB3-0-Tempered-Glass-Micro-ATX-Gaming-Computer-Case-w-Dual-Tempered-Glass-Panel-and-3-x-ARGB-LED-Fans-Pre-Installed/2874883917?from=/search) (59.98) N/A
 
 ___
+
+### Dell Optiplex 9020 Micro parts (all seperate)
+
+**Notes:** This item contains 3 items that form 1 product.
+
+**Category:** Computer Part(s)
+ - Subcategory: Computer
+
+**Specifications:**
+ - i7-4790s cpu (4 cores, 8 threads, 3.2ghz, 8m cache, 14nm process)
+ - 65w 4.5mm power adapter (laptop charger / sff desktop power supply, see [here](https://www.dell.com/en-us/shop/dell-45-mm-barrel-65-w-ac-adapter-with-2-meter-power-cord-united-states/apd/492-bbme/pc-accessories#techspecs_section) for specifications)
+ - (already have) 500gb gen 3.0 m.2 nvme ssd
+ - (already have) 1x8gb 1200mhz 11cl sodimm low profile ram
+
+**Parts:**
+#### **i7-4790s cpu:**
+**Price (used):** 25-45$ (ebay, search "i7-4790s", filter BIN only, price low to high)
+
+**Notes:** Needs [thermal paste](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#artic-silver-5-thermal-paste).
+
+**Specifications:** 4 cores (8 threads), 3.2ghz, 8mb cache, 14nm process
+
+**Where to buy:**
+[eBay (search](https://www.ebay.com/sch/i.html?campid=5338192028&kw=i7-4790s&mkcid=1&mkrid=711-53200-19255-0&toolid=20004&LH_BIN=1&_sop=15)
+
+#### **Barebones system:**
+**Price (used):** $25 - $75 (look for $50 or less)
+
+**Specifications:** 4th gen intel chipset, 1x m.2 m-key, 1x m.2 e-key, 2x ddr3l sodimm
+
+**Notes:** Barebones (no cpu/ssd/ram) is ok, missing parts is ok, for parts/repair is ok because thats what the other parts are for
+
+**Where to buy:**
+[Ebay (search)](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1312&_nkw=dell+optiplex+9020+micro&_sacat=0&LH_TitleDesc=0&toolid=20004&mkcid=1&campid=5338192028&LH_BIN=1&_sop=15&kw=i7-4790s&mkrid=711-53200-19255-0)
+
+#### **65w 4.5mm power adapter**
+
+**Price:** ~$10-25
+
+**Specifications:** 65w, 4.5mm, looks like (and is) a laptop charger
+
+**Where to buy:** Amazon (links: 1[ (recommended, $18.85)](https://www.amazon.com/Dell-AC-Power-Adapter-Watt/dp/B018Z6LNHE), [2 ($9.99)](https://www.amazon.com/Charger-Replacement-Inspiron-13-5000-7348-2in1/dp/B0BM47JVZ6), [3 ($19.90)](https://www.amazon.com/Dell-Original-Inspiron-Charger-7348-2in1/dp/B07R8M3VY5))
+
+#### **End parts list**
+
+**Price (combined):** $60 - $145
+
+**Where to buy:** Ebay, Amazon (see parts for links)
