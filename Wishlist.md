@@ -3,7 +3,8 @@
 #### Tech:
 1. [A bunch of USB sticks](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#a-bunch-of-usb-sticks)
 2. [Kinetic labs keyboard O-Rings](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#kinetic-labs-keyboard-o-rings)
-3. [HyperX Pulsefire Haste](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#hyperx-pulsefire-haste-gaming-mouse-white)
+3. [Switch pad foam stickers](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#switch-pad-foam-stickers)
+4. [HyperX Pulsefire Haste](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#hyperx-pulsefire-haste-gaming-mouse-white)
 ##### Tech --> Computer parts:
 1. [Thermalright TL-C12C-S X3 Case fan](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#thermalright-tl-c12c-s-x3)
 2. [ID-COOLING SE-214-XT ARGB Cpu Cooler](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#id-cooling-se-214-xt-argb)
@@ -47,6 +48,16 @@ ___
 
 **Where to buy:**
  - [Kinetic Labs - https://kineticlabs.com/misc/kinetic/keyboard-silencing-o-rings] () 
+___
+
+### Switch pad foam stickers
+
+**Category:** Tech
+
+**Price:** 7.99
+
+**Where to buy:**
+ - [Kinetic Labs - https://kineticlabs.com/misc/kinetic/switch-pad-foam-stickers] (7.99) ★★★★½
 ___
 
 ### HyperX Pulsefire Haste Gaming Mouse (White)
