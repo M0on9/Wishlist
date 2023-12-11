@@ -6,6 +6,7 @@
 3. [Switch pad foam stickers](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#switch-pad-foam-stickers)
 4. [Plate foam sticker squares](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#plate-foam-sticker-squares)
 5. [HyperX Pulsefire Haste](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#hyperx-pulsefire-haste-gaming-mouse-white)
+6. [Keyboard Spacebar Foam](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#keyboard-spacebar-foam)
 ##### Tech --> Computer parts:
 1. [Thermalright TL-C12C-S X3 Case fan](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#thermalright-tl-c12c-s-x3)
 2. [ID-COOLING SE-214-XT ARGB Cpu Cooler](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#id-cooling-se-214-xt-argb)
@@ -92,6 +93,19 @@ ___
  - [HP (hyperx)](https://www.hp.com/us-en/shop/pdp/hyperx-pulsefire-haste-gaming-mouse-(white-pink)) (29.99, usually 49.99) ★★★★½
  - [Target](https://www.target.com/p/hyperx-pulsefire-haste-wired-gaming-mouse-for-pc-pink-white/-/A-86873149?clkid=695c8131N8d3f11eebae5b1563be5ff38) (29.99, usually 37.99) ★★★★½
 
+___
+
+### Keyboard Spacebar Foam
+
+**Category:** Tech
+
+**Specifications:**
+ - Size: 6.25u
+
+**Price:** 4.99
+
+**Where to buy:**
+ - [Kinetic Labs - https://kineticlabs.com/misc/kinetic/keyboard-spacebar-foam] (4.99) ★★★★☆
 ___
 
 ### Thermalright TL-C12C-S X3
