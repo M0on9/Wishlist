@@ -2,7 +2,8 @@
 (Sorted by priority)
 #### Tech:
 1. [A bunch of USB sticks](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#a-bunch-of-usb-sticks)
-2. [HyperX Pulsefire Haste](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#hyperx-pulsefire-haste-gaming-mouse-white)
+2. [Kinetic labs keyboard O-Rings](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#kinetic-labs-keyboard-o-rings)
+3. [HyperX Pulsefire Haste](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#hyperx-pulsefire-haste-gaming-mouse-white)
 ##### Tech --> Computer parts:
 1. [Thermalright TL-C12C-S X3 Case fan](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#thermalright-tl-c12c-s-x3)
 2. [ID-COOLING SE-214-XT ARGB Cpu Cooler](https://github.com/M0on9/Wishlist/blob/main/Wishlist.md#id-cooling-se-214-xt-argb)
@@ -33,6 +34,19 @@ ___
 Doesnt matter that much, but heres a example link
  - [Micro Center SuperSpeed USB stick 32Gb x10](https://www.amazon.com/Center-SuperSpeed-5-Pack-Memory-Keychain/dp/B09LLWTMXQ/) ($30.49, other options available) ★★★★½
 
+___
+
+### Kinetic labs keyboard O-Rings
+
+**Category:** Tech
+
+**Specifications:**
+ - Color: White
+
+**Price:** 4.99
+
+**Where to buy:**
+ - [Kinetic Labs - https://kineticlabs.com/misc/kinetic/keyboard-silencing-o-rings] () 
 ___
 
 ### HyperX Pulsefire Haste Gaming Mouse (White)
